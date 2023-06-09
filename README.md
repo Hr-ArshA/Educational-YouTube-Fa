@@ -27,6 +27,9 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Erfan Mola](https://www.youtube.com/@erfanmola)
 - [mr Robot](https://www.youtube.com/@imrrobot)
 - [Unrivaled Team](https://www.youtube.com/@UnrivaledIr)
+- [Mister Programmer](https://youtube.com/@MisterProgrammer)
+- [Sarvin](https://youtube.com/@sarvinStyle)
+- [Open Code](https://youtube.com/@OpenCode)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
@@ -53,4 +56,8 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Ali Alaei](https://www.youtube.com/@AliAlaei)
 - [python studio](https://www.youtube.com/@pythonstudio)
 - [Alireza Ayinmehr](https://www.youtube.com/@AlirezaAyinmehr/videos)
-
+- [Mohammadreza Alihoseiny](https://youtube.com/@MohammadrezaAlihoseiny)
+- [ELE Code center](https://youtube.com/@ELECodecenter)
+- [Poyot Web](https://youtube.com/@PoyotWebny)
+- [GeekMeek](https://youtube.com/@GeekMeek)
+- [Arshiya Radan](https://youtube.com/@ArshiyaRadan)
