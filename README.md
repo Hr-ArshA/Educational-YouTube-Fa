@@ -32,4 +32,5 @@
 - [pyclass](https://www.youtube.com/@pyclass_net)
 - [Sudoer_grp](https://www.youtube.com/@sudoergrp)
 - [Morteza Bashsiz](http://youtube.com/@MortezaBashsiz)
+- [Amir Motahari](https://www.youtube.com/c/AmirMotahari)
 - [Creativity House](https://www.youtube.com/@CreativityHousee)
