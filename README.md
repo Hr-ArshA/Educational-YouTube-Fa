@@ -51,4 +51,5 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [neonlearn](https://www.youtube.com/@neonlearn)
 - [Ali Alaei](https://www.youtube.com/@AliAlaei)
 - [python studio](https://www.youtube.com/@pythonstudio)
+- [Alireza Ayinmehr](https://www.youtube.com/@AlirezaAyinmehr/videos)
 
