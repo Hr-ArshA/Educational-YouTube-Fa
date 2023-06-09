@@ -46,4 +46,6 @@
 - [pyclass](https://www.youtube.com/@pyclass_net)
 - [Sudoer_grp](https://www.youtube.com/@sudoergrp)
 - [neonlearn](https://www.youtube.com/@neonlearn)
+- [Ali Alaei](https://www.youtube.com/@AliAlaei)
 - [python studio](https://www.youtube.com/@pythonstudio)
+
