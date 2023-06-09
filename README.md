@@ -35,6 +35,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
 - [Sohrab Behdani](https://www.youtube.com/@sohrabbehdani)
 - [Pink Orca | پینک اورکا](https://www.youtube.com/@pinkorca)
+- [Silicium with Mehran Tarif](https://www.youtube.com/@Silicium7)
 - [Siavash Mahmoudian](https://www.youtube.com/@Syavash)
 - [Mahdi Valizadeh](https://www.youtube.com/@MahdiValizadeh)
 - [PersianPython](https://www.youtube.com/@PersianPython)
