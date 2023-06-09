@@ -30,3 +30,5 @@
 - [Amirahmad Adibi](https://www.youtube.com/@amirahmadadibi4839)
 - [Yadify](https://www.youtube.com/@Yadify)
 - [pyclass](https://www.youtube.com/@pyclass_net)
+- [Sudoer_grp](https://www.youtube.com/@sudoergrp)
+- [Morteza Bashsiz](http://youtube.com/@MortezaBashsiz)
