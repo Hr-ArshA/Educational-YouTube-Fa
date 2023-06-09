@@ -21,6 +21,7 @@
 - [Amir Motahari](https://www.youtube.com/c/AmirMotahari)
 - [Maryam Sadeghi](https://www.youtube.com/@MaryamSadeghiPython)
 - [Creativity House](https://www.youtube.com/@CreativityHousee)
+- [Erfan Mola](https://www.youtube.com/@erfanmola)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
