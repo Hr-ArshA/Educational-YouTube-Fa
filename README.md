@@ -7,9 +7,9 @@
 2. [غیرفعال](#inactive-channels)
 
 ## Active channels
+- [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
 - [PhiloLearn](https://www.youtube.com/@PhiloLearn)
 - [shahriaarrr](https://www.youtube.com/@shahriaarrr)
-- [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
 - [Ramin Saljoughinejad](https://www.youtube.com/@Ramin-S)
 - [DevOps Hobbies](https://www.youtube.com/@devopshobbies)
 - [MicroFrontend](https://www.youtube.com/@MicroFrontend)
@@ -21,6 +21,8 @@
 - [Amir Motahari](https://www.youtube.com/c/AmirMotahari)
 - [Maryam Sadeghi](https://www.youtube.com/@MaryamSadeghiPython)
 - [Creativity House](https://www.youtube.com/@CreativityHousee)
+- [Erfan Mola](https://www.youtube.com/@erfanmola)
+- [mr Robot](https://www.youtube.com/@imrrobot)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
@@ -45,3 +47,5 @@
 - [Sudoer_grp](https://www.youtube.com/@sudoergrp)
 - [neonlearn](https://www.youtube.com/@neonlearn)
 - [Ali Alaei](https://www.youtube.com/@AliAlaei)
+- [python studio](https://www.youtube.com/@pythonstudio)
+
