@@ -30,6 +30,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Mister Programmer](https://youtube.com/@MisterProgrammer)
 - [Sarvin](https://youtube.com/@sarvinStyle)
 - [Open Code](https://youtube.com/@OpenCode)
+- [Fazeli Tech](https://www.youtube.com/@FazeliTech)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
