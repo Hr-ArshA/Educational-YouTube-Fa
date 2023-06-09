@@ -10,8 +10,8 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 2. [غیرفعال](#inactive-channels)
 
 ## Active channels
-- [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
 - [PhiloLearn](https://www.youtube.com/@PhiloLearn)
+- [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
 - [shahriaarrr](https://www.youtube.com/@shahriaarrr)
 - [Ramin Saljoughinejad](https://www.youtube.com/@Ramin-S)
 - [DevOps Hobbies](https://www.youtube.com/@devopshobbies)
