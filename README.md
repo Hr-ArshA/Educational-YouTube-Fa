@@ -31,6 +31,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Sarvin](https://youtube.com/@sarvinStyle)
 - [Open Code](https://youtube.com/@OpenCode)
 - [Fazeli Tech](https://www.youtube.com/@FazeliTech)
+- [Mosh Hamedani](https://www.youtube.com/@programmingwithmosh)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
