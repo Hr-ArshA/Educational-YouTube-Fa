@@ -26,6 +26,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Creativity House](https://www.youtube.com/@CreativityHousee)
 - [Erfan Mola](https://www.youtube.com/@erfanmola)
 - [mr Robot](https://www.youtube.com/@imrrobot)
+- [Unrivaled Team](https://www.youtube.com/@UnrivaledIr)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
