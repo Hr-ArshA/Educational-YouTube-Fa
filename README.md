@@ -73,4 +73,3 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Arshiya Radan](https://youtube.com/@ArshiyaRadan)
 - [codinguy](https://www.youtube.com/@codinguy_)
 - [Farnam Javadi](https://www.youtube.com/@FarnamJavadi)
-- [Amir Ahmad Adibi](https://www.youtube.com/@amirahmadadibi4839)
