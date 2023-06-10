@@ -75,3 +75,5 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Muhammadreza Haghiri](https://www.youtube.com/@muhammadrezahaghiri)
 - [codinguy](https://www.youtube.com/@codinguy_)
 - [Farnam Javadi](https://www.youtube.com/@FarnamJavadi)
+- [itlannd](https://www.youtube.com/@itlannd9448)
+
