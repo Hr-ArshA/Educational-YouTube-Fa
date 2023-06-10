@@ -40,6 +40,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [kalagar](https://www.youtube.com/@kalagar2)
 - [happy developer](https://www.youtube.com/@HappyDeveloper)
 
+
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
 - [Sohrab Behdani](https://www.youtube.com/@sohrabbehdani)
@@ -71,5 +72,6 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Poyot Web](https://youtube.com/@PoyotWebny)
 - [GeekMeek](https://youtube.com/@GeekMeek)
 - [Arshiya Radan](https://youtube.com/@ArshiyaRadan)
+- [Muhammadreza Haghiri](https://www.youtube.com/@muhammadrezahaghiri)
 - [codinguy](https://www.youtube.com/@codinguy_)
 - [Farnam Javadi](https://www.youtube.com/@FarnamJavadi)
