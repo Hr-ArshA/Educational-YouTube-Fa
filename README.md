@@ -39,6 +39,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [persian flutter](https://www.youtube.com/@PersianFlutter)
 - [kalagar](https://www.youtube.com/@kalagar2)
 - [happy developer](https://www.youtube.com/@HappyDeveloper)
+- [Woland's Machine](https://www.youtube.com/@wolandsmachine)
 
 
 ## Inactive channels
