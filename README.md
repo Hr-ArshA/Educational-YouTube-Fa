@@ -32,6 +32,13 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Open Code](https://youtube.com/@OpenCode)
 - [Fazeli Tech](https://www.youtube.com/@FazeliTech)
 - [Mosh Hamedani](https://www.youtube.com/@programmingwithmosh) *It is not a Persian channel, but it is an Iranian teacher*
+- [Discolearn](https://www.youtube.com/@Discolearn)
+- [sadeqam](https://www.youtube.com/@sadeqam)
+- [Peyman Majidi Moein](https://www.youtube.com/@peymanx)
+- [amir today](https://www.youtube.com/@AmirToday)
+- [persian flutter](https://www.youtube.com/@PersianFlutter)
+- [kalagar](https://www.youtube.com/@kalagar2)
+- [happy developer](https://www.youtube.com/@HappyDeveloper)
 
 
 ## Inactive channels
@@ -66,3 +73,5 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [GeekMeek](https://youtube.com/@GeekMeek)
 - [Arshiya Radan](https://youtube.com/@ArshiyaRadan)
 - [Muhammadreza Haghiri](https://www.youtube.com/@muhammadrezahaghiri)
+- [codinguy](https://www.youtube.com/@codinguy_)
+- [Farnam Javadi](https://www.youtube.com/@FarnamJavadi)
