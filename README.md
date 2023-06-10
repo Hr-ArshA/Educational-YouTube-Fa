@@ -32,7 +32,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Open Code](https://youtube.com/@OpenCode)
 - [Fazeli Tech](https://www.youtube.com/@FazeliTech)
 - [Mosh Hamedani](https://www.youtube.com/@programmingwithmosh) *It is not a Persian channel, but it is an Iranian teacher*
-- [MicroFrontend](https://www.youtube.com/@MicroFrontend)
+
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
@@ -65,3 +65,4 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Poyot Web](https://youtube.com/@PoyotWebny)
 - [GeekMeek](https://youtube.com/@GeekMeek)
 - [Arshiya Radan](https://youtube.com/@ArshiyaRadan)
+- [Muhammadreza Haghiri](https://www.youtube.com/@muhammadrezahaghiri)
