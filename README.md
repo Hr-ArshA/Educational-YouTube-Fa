@@ -33,6 +33,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Fazeli Tech](https://www.youtube.com/@FazeliTech)
 - [Mosh Hamedani](https://www.youtube.com/@programmingwithmosh) *It is not a Persian channel, but it is an Iranian teacher*
 - [Discolearn](https://www.youtube.com/@Discolearn)
+- [sadeqam](https://www.youtube.com/@sadeqam)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
