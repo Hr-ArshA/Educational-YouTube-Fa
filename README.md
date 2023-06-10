@@ -35,6 +35,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Discolearn](https://www.youtube.com/@Discolearn)
 - [sadeqam](https://www.youtube.com/@sadeqam)
 - [Peyman Majidi Moein](https://www.youtube.com/@peymanx)
+- [amir today](https://www.youtube.com/@AmirToday)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
