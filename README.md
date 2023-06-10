@@ -38,6 +38,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [amir today](https://www.youtube.com/@AmirToday)
 - [persian flutter](https://www.youtube.com/@PersianFlutter)
 - [kalagar](https://www.youtube.com/@kalagar2)
+- [happy developer](https://www.youtube.com/@HappyDeveloper)
 
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
