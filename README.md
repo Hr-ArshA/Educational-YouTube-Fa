@@ -43,6 +43,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 
 
 ## Inactive channels
+- [Security Flaws](https://www.youtube.com/@secflaws)
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
 - [Sohrab Behdani](https://www.youtube.com/@sohrabbehdani)
 - [Pink Orca | پینک اورکا](https://www.youtube.com/@pinkorca)
