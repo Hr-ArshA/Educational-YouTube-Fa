@@ -41,6 +41,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [happy developer](https://www.youtube.com/@HappyDeveloper)
 - [Woland's Machine](https://www.youtube.com/@wolandsmachine)
 - [Bardia Channel](https://youtube.com/@BardiaChannel)
+- [4rahecomputer](https://www.youtube.com/@4rahecomputer)
 
 ## Inactive channels
 - [Security Flaws](https://www.youtube.com/@secflaws)
