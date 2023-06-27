@@ -42,6 +42,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Woland's Machine](https://www.youtube.com/@wolandsmachine)
 - [Bardia Channel](https://youtube.com/@BardiaChannel)
 - [4rahecomputer](https://www.youtube.com/@4rahecomputer)
+- [Hotcodes](https://www.youtube.com/@Hotcodes_Academy)
 
 ## Inactive channels
 - [Security Flaws](https://www.youtube.com/@secflaws)
