@@ -10,7 +10,6 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 2. [غیرفعال](#inactive-channels)
 
 ## Active channels
-- [Amirhoseinsohrabi](https://www.youtube.com/@amirhoseinsohrabi1262)
 - [PhiloLearn](https://www.youtube.com/@PhiloLearn)
 - [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
 - [shahriaarrr](https://www.youtube.com/@shahriaarrr)
@@ -44,6 +43,7 @@ https://t.me/addlist/j9ObueHkS9s3ZTg8
 - [Bardia Channel](https://youtube.com/@BardiaChannel)
 - [4rahecomputer](https://www.youtube.com/@4rahecomputer)
 - [Hotcodes](https://www.youtube.com/@Hotcodes_Academy)
+- [Amirhoseinsohrabi](https://www.youtube.com/@amirhoseinsohrabi1262)
 
 ## Inactive channels
 - [Security Flaws](https://www.youtube.com/@secflaws)
